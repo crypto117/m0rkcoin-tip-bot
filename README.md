@@ -1,6 +1,6 @@
 # RhodiumCoin Tip Bot
 
-This is a Discord bot that can transfer RHOX between users. It supports:
+This is a Discord bot that can transfer RHOX between users. Please update bot token & user It supports:
 
 - Deposit RHOX
 - Tip RHOX to Discord users
