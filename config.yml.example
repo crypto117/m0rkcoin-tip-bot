@@ -1,10 +1,10 @@
 # MongoDB connection information
 database:
   host: "127.0.0.1"
-  port: 27017
+  port: 8004
   user: ""
   password: ""
-  db: "m0rkcoin_bot"
+  db: "rhodiumcoin_bot"
 
 # Discord Bot user token
 discord:
@@ -13,12 +13,12 @@ discord:
 # walletd connection information
 wallet:
   host: "127.0.0.1"
-  port: "8070"
+  port: "8015"
 
-# M0RK is 12-digit, 1000000000000
-tx_fee: 10000000
-min_tx_amount: 1000000000000
+# RHOX is 8-digit, 100000000
+tx_fee: 1400000000
+min_tx_amount: 100000000
 max_tx_amount: 2000000000000000
 
-# How many seconds between balance refresh with walletd
+# How many seconds between balance refresh with RhodiumCoind
 wallet_balance_update_interval: 30
