@@ -56,7 +56,7 @@ This project can most certainly be adapted to any
 [CryptoNote](https://github.com/forknote/cryptonote-generator) coin.
 You most likely won't have to change much.
 
-- Change or remove the regex validation in `m0rkcoin_tip_bot.models:WalletAddressField`
+- Change or remove the regex validation in `rhodiumcoin_tip_bot.models:WalletAddressField`
 to match the address prefix of your coin.
 - Adapt the `RHODIUMCOIN_DIGITS` and `RHODIUMCOIN_REPR` to match your coin.
 
