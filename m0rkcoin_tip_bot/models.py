@@ -5,7 +5,7 @@ from mongoengine import (Document, StringField, ReferenceField, LongField,
 class WalletAddressField(StringField):
     def __init__(self, **kwargs):
         max_length = 98
-        regex = r'fmrk[a-zA-Z0-9]{95,}'
+        regex = r'fmrk[0-9a-f]{94,}'
         super(WalletAddressField, self).__init__(max_length=max_length,
                                                  regex=regex, **kwargs)
 
