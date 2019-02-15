@@ -3,7 +3,7 @@ from uuid import uuid4
 
 import requests
 
-from m0rkcoin_tip_bot.config import config
+from rhodiumcoin_tip_bot.config import config
 
 
 class RPCException(Exception):
