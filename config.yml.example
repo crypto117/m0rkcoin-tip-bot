@@ -20,5 +20,5 @@ tx_fee: 1400000000
 min_tx_amount: 100000000
 max_tx_amount: 2000000000000000
 
-# How many seconds between balance refresh with RhodiumCoind
+# How many seconds between balance refresh with walletd
 wallet_balance_update_interval: 30
