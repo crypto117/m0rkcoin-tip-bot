@@ -8,7 +8,7 @@ database:
 
 # Discord Bot user token
 discord:
-  token: "NTMzNDc2NTAyNDAzMTUzOTIw.D1Xxwg.m1Z4VoRsHajO6k1ZeJhemFkc58Y"
+  token: "NTMzNDc2NTAyNDAzMTUzOTIw.D1Xxwg"
 
 # walletd connection information
 wallet:
