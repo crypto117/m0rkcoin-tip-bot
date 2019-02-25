@@ -3,12 +3,12 @@ database:
   host: "104.248.211.207"
   port: 8010
   user: "user"
-  password: "9cb52ffc-2b4f-11e9-9033-8b75605be"
+  password: "8b75605be"
   db: "rhodiumcoin_bot"
 
 # Discord Bot user token
 discord:
-  token: "NTMzNDc2NTAyNDAzMTUzOTIw.D0f1pQ.3VLsFJU6tLcrkgZBZXa2rAx"
+  token: "NTMzNDc2NTAyNDAzMTUzOTIw.D1Xxwg.m1Z4VoRsHajO6k1ZeJhemFkc58Y"
 
 # walletd connection information
 wallet:
