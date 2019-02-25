@@ -1,7 +1,7 @@
 # MongoDB connection information
 database:
-  host: "127.0.0.1"
-  port: 8004
+  host: "104.248.211.207"
+  port: 8010
   user: "user"
   password: "9cb52ffc-2b4f-11e9-9033-8b75605be"
   db: "rhodiumcoin_bot"
@@ -13,10 +13,10 @@ discord:
 # walletd connection information
 wallet:
   host: "127.0.0.1"
-  port: "8015"
+  port: "8004"
 
 # RHOX is 8-digit, 100000000
-tx_fee: 1400000000
+tx_fee: 1410000000
 min_tx_amount: 100000000
 max_tx_amount: 2000000000000000
 
